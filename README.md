@@ -1,6 +1,6 @@
 ![logo](https://github.com/KalpanaDxt/KalpanaDxt/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm KALPANA DIXIT</h1>
-<h3 align="center">Passionate software developer creating innovative solutions. Turning ideas into code, one commit at a time.</h3>
+<h3 align="center">Passionate software developer creating innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JsGu7HsijUJ3aNZuzM4PVzkmf8Z6-0MAKw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpanadxt&label=Profile%20views&color=0e75b6&style=flat" alt="kalpanadxt" /> </p>
