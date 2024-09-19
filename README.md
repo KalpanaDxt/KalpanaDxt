@@ -1,4 +1,4 @@
-![logo](https://github.com/KalpanaDxt/KalpanaDxt/commit/ef7d26fd34ce9f4372b7611d6799dee849d4abf5)
+![logo](https://github.com/KalpanaDxt/KalpanaDxt/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm KALPANA DIXIT</h1>
 <h3 align="center">Passionate software developer creating innovative solutions. Turning ideas into code, one commit at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JsGu7HsijUJ3aNZuzM4PVzkmf8Z6-0MAKw&s">
